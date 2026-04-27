@@ -48,8 +48,3 @@ Get the complete **Business Intelligence Master Revision PDF** with automated de
 * **Format:** Searchable, High-Resolution PDF.
 * **Support:** For bulk access or queries, reach out via the Gumroad profile.
 
-<div align="center">
-  <br>
-  <p><sub>Curated by <b>The Digital Scholar</b> | Architecting Clarity for the 2026 Academic Cycle.</sub></p>
-  <img src="https://img.shields.io/badge/Made%20with-LaTeX-47a141?style=flat-square&logo=latex&logoColor=white" alt="Made with LaTeX">
-</div>
