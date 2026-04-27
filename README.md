@@ -31,7 +31,7 @@ This guide isn't just a summary; it's a **"Neural Map"** of modern Business Inte
 
 ## 📂 Sample the Quality
 Review a snapshot of our high-resolution formatting before you buy:
-* 📄 [View Sample Notes](https://kalyani72.gumroad.com/l/bi_analytics)
+* 📄 [View Sample Notes](Week1.pdf)
 
 ---
 
